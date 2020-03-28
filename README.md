@@ -1,2 +1,2 @@
-# asset-landing-page
-asset untuk landing page
+# bahan navbar dan sidebar
+bahan frontend
